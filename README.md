@@ -6,14 +6,14 @@ Name = Alexandre <br>
 Surname = CARTIAUX <br>
 ID_student = acartiaux24<br>
 
-StartDate = 25/06/2024 
-EndDate = 27/06/2024
+StartDate = 25/06/2024 <br>
+EndDate = 27/06/2024<br>
 
 Project Description<br> 
      Develop a chess game using Pygame. Create an interface where two players can play on the same computer, taking turns. Explore methods to enable remote play (either via a server or through a connection if the players are on the same WiFi network). Develop a mid-level combat bot.
 
-
-Main Objectives
+<br>
+**Main Objectives**<br>
 - Explore Pygame
 - Interface manipulation
 - Develop Game Algorithms
