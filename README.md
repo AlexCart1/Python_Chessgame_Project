@@ -1,7 +1,7 @@
 # Python_Chessgame_Project
 Chess Game Development in Python
 
-Student
+**Student** <br>
 Name = Alexandre <br>
 Surname = CARTIAUX <br>
 ID_student = acartiaux24<br>
