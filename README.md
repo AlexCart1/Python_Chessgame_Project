@@ -14,9 +14,9 @@ Project Description<br>
 
 <br>
 **Main Objectives**<br>
-- Explore Pygame
-- Interface manipulation
-- Develop Game Algorithms
-- Explore Multi-Computer Play options
-- Ai bot development
+- Explore Pygame<br>
+- Interface manipulation<br>
+- Develop Game Algorithms<br>
+- Explore Multi-Computer Play options<br>
+- Ai bot development<br>
 
