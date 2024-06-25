@@ -2,9 +2,9 @@
 Chess Game Development in Python
 
 Student
-Name = Alexandre
-Surname = CARTIAUX
-ID_student = acartiaux24
+Name = Alexandre <br>
+Surname = CARTIAUX <br>
+ID_student = acartiaux24<br>
 
 StartDate = 25/06/2024 
 EndDate = 27/06/2024
